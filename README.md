@@ -1,244 +1,218 @@
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--           B.C. PUSHYA — GitHub Profile README          -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:A855F7,100:6366F1&height=220&section=header&text=✦%20B.C.%20Pushya%20✦&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20·%20AI%20Engineer%20·%20M.Tech%20CS%20@%20NHCE%20Bengaluru&descAlignY=60&descColor=FFD6EC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9de2,50:c77dff,100:7b2ff7&height=180&section=header&text=✿%20B.%20C.%20Pushya%20✿&fontSize=48&fontColor=fff&fontAlignY=40&desc=こんにちは！%20I%20build%20things%20that%20matter%20〜%20(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&descColor=ffe0f7&animation=twinkling" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=FF6B9D&center=true&vCenter=true&width=750&lines=🌸+Backend+%7C+GenAI+%7C+Cloud+%7C+Distributed+Systems;✈️+Full-Stack+Dev+Intern+@+CrestaAerospace;🎶+BLACKPINK+stan+%7C+📊+Intraday+Trader+%7C+🎖️+NCC+Certified;🚀+Building+things+that+reach+millions+of+users)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Profile views + followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Pushya26&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Pushya26?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/Pushya26)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=✨+M.Tech+CS+%40+NHCE+Bengaluru+(VTU)+|+CGPA+9.05;💻+Full-Stack+Dev+Intern+%40+CrestaAerospace+✈️;🤖+RAG+Pipelines+|+Distributed+Systems+|+GenAI;🎶+BLACKPINK+Stan+|+📊+Trader+|+🎖️+NCC+Certified)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<img align="right" width="260px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="anime coding gif"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding anime gif"/>
+### ˚₊· ͟͟͞͞➳❥ `about me`
 
-## 🌸 `whoami`
-
-```python
-class Pushya:
-    pronouns    = "she/her 🌸"
-    location    = "Bengaluru, India 🇮🇳"
-    degree      = "M.Tech CSE @ NHCE, VTU | CGPA 9.05 ✨"
-    current     = "Full-Stack Dev Intern @ CrestaAerospace ✈️"
-    past        = ["AI/ML Intern @ Rooman Technologies 🤖",
-                   "Software Dev Intern @ DRDO LRDE 🛡️"]
-    loves       = ["Backend Engineering 🔩", "RAG Systems 🧠",
-                   "Distributed Systems ⚡", "Applied AI 🌌"]
-    fun_facts   = ["BLACKPINK stan 🎶", "Intraday trader 📈",
-                   "NCC B & C certified 🎖️", "Gamifies everything 🎮"]
-    motto       = "Clean code. Real impact. Ship it. 🚀"
+```yaml
+name:     B. C. Pushya
+from:     Bengaluru, India 🇮🇳
+degree:   M.Tech CSE @ NHCE (VTU) | CGPA 9.05 ✨
+doing:    Full-Stack Dev Intern @ CrestaAerospace ✈️
+past:
+  - AI/ML Intern @ Rooman Technologies 🤖
+  - Software Dev Intern @ DRDO LRDE 🛡️
+loves:
+  - Backend Engineering 🔩
+  - RAG + LLM Systems 🧠
+  - Distributed Systems ⚡
+  - Clean, tested code 🌿
+currently_learning:
+  - AWS Cloud (Coursera) ☁️
+  - IBM GenAI Engineering 🤖
+  - LNN / Liquid Neural Nets 🌊
+hobbies:
+  - BLACKPINK 🎶  K-dramas 🍿
+  - Intraday Trading 📈
+  - Gamified productivity 🎮
+fun_fact: NCC B & C certified + 9.05 CGPA grindset 💪
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════ SKILLS + COMPETENCY ═══════════════════ -->
-
-## ⚡ Skills & Competency
+### ˚₊· ͟͟͞͞➳❥ `tech stack` ✦
 
 <div align="center">
 
-### 🔮 Core Languages
+**⟡ Languages ⟡**
 
-| Skill | Proficiency | Level |
-|-------|-------------|-------|
-| 🐍 **Python** | ![](https://progress-bar.dev/92/?width=220&color=FF6B9D&suffix=%) | ⭐ Proficient |
-| 🗄️ **SQL** | ![](https://progress-bar.dev/88/?width=220&color=A855F7&suffix=%) | ⭐ Proficient |
-| ☕ **Java** | ![](https://progress-bar.dev/65/?width=220&color=6366F1&suffix=%) | 🌱 Familiar |
-| 🌐 **JavaScript** | ![](https://progress-bar.dev/68/?width=220&color=F472B6&suffix=%) | 🌱 Familiar |
-| 📄 **HTML/CSS** | ![](https://progress-bar.dev/72/?width=220&color=C084FC&suffix=%) | 🌱 Familiar |
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash&theme=light&perline=6"/>
 
-### 🗃️ Databases & Storage
+**⟡ Frameworks & Libraries ⟡**
 
-| Skill | Proficiency | Level |
-|-------|-------------|-------|
-| 🐘 **PostgreSQL** | ![](https://progress-bar.dev/88/?width=220&color=FF6B9D&suffix=%) | ⭐ Strong |
-| 🐬 **MySQL** | ![](https://progress-bar.dev/78/?width=220&color=A855F7&suffix=%) | ✅ Good |
-| 🍃 **MongoDB** | ![](https://progress-bar.dev/65/?width=220&color=6366F1&suffix=%) | 🌱 Familiar |
-| 🔴 **Redis** | ![](https://progress-bar.dev/72/?width=220&color=F472B6&suffix=%) | ✅ Good |
+<img src="https://skillicons.dev/icons?i=django,flask,react,vite,fastapi,nodejs&theme=light&perline=6"/>
 
-### 🛠️ DevOps & Cloud
+**⟡ Databases & Messaging ⟡**
 
-| Skill | Proficiency | Level |
-|-------|-------------|-------|
-| 🐳 **Docker** | ![](https://progress-bar.dev/80/?width=220&color=FF6B9D&suffix=%) | ✅ Good |
-| ☁️ **AWS** | ![](https://progress-bar.dev/60/?width=220&color=A855F7&suffix=%) | 🌱 Growing |
-| 🔁 **Git/GitHub** | ![](https://progress-bar.dev/90/?width=220&color=6366F1&suffix=%) | ⭐ Strong |
-| 🔧 **REST APIs** | ![](https://progress-bar.dev/88/?width=220&color=F472B6&suffix=%) | ⭐ Strong |
-| ⚙️ **ETL/ELT Pipelines** | ![](https://progress-bar.dev/82/?width=220&color=C084FC&suffix=%) | ✅ Good |
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=light&perline=6"/>
 
-### 🤖 AI / ML
+**⟡ DevOps & Cloud ⟡**
 
-| Skill | Proficiency | Level |
-|-------|-------------|-------|
-| 🔍 **RAG Systems** | ![](https://progress-bar.dev/84/?width=220&color=FF6B9D&suffix=%) | ⭐ Strong |
-| 🧠 **NLP Pipelines** | ![](https://progress-bar.dev/80/?width=220&color=A855F7&suffix=%) | ✅ Good |
-| 📦 **LLM Integration** | ![](https://progress-bar.dev/75/?width=220&color=6366F1&suffix=%) | ✅ Good |
-| 📊 **ML / Clustering** | ![](https://progress-bar.dev/78/?width=220&color=F472B6&suffix=%) | ✅ Good |
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,jenkins&theme=light&perline=6"/>
+
+**⟡ AI / ML ⟡**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light&perline=6"/>
+
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B9D?style=flat-square&logo=databricks&logoColor=white)
+![LLaMA 2](https://img.shields.io/badge/LLaMA%202-%23A855F7?style=flat-square&logo=meta&logoColor=white)
+![Watson NLP](https://img.shields.io/badge/Watson%20NLP-%230062FF?style=flat-square&logo=ibm&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-%237B2FF7?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ TECH STACK ICONS ═══════════════════ -->
-
-## 🎀 Tech Stack
+### ˚₊· ͟͟͞͞➳❥ `skill levels` ✦
 
 <div align="center">
 
-**Languages & Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,django,flask,react&theme=light)](https://skillicons.dev)
-
-**Databases & Messaging**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light)](https://skillicons.dev)
-
-**DevOps & Cloud**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=light)](https://skillicons.dev)
-
-**AI & Data Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv&theme=light)](https://skillicons.dev)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B9D?style=for-the-badge&logo=databricks&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA%202-A855F7?style=for-the-badge&logo=meta&logoColor=white)
+| | Skill | Level | |
+|:---:|---|:---:|:---:|
+| 🐍 | Python | `████████████░░` 88% | ⭐ Proficient |
+| 🗄️ | SQL / PostgreSQL | `███████████░░░` 84% | ⭐ Proficient |
+| 🌐 | REST API Design | `███████████░░░` 85% | ⭐ Strong |
+| 🐳 | Docker | `██████████░░░░` 78% | ✅ Good |
+| 🧠 | RAG / LLM Systems | `██████████░░░░` 80% | ✅ Good |
+| 🔩 | Django / Flask | `██████████░░░░` 80% | ✅ Good |
+| ⚡ | Distributed Systems | `█████████░░░░░` 72% | ✅ Good |
+| 🔴 | Redis / Celery | `████████░░░░░░` 68% | 🌱 Growing |
+| ☁️ | AWS | `███████░░░░░░░` 60% | 🌱 Growing |
+| ☕ | Java | `███████░░░░░░░` 62% | 🌱 Familiar |
+| 🌐 | JavaScript | `████████░░░░░░` 65% | 🌱 Familiar |
 
 </div>
 
 ---
 
-<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
+### ˚₊· ͟͟͞͞➳❥ `experience` ✦
 
-## 💼 Experience Timeline
+<div align="center">
+
+| 🏢 | Role | Company | Period | Stack |
+|:---:|---|---|:---:|---|
+| ✈️ | Full-Stack Dev Intern | **CrestaAerospace** | Jul–Nov 2025 | Django · PostgreSQL · REST APIs |
+| 🤖 | AI & ML Intern | **Rooman Technologies** | Sep 2024–Feb 2025 | Watson NLP · Flask · K-Means |
+| 🛡️ | Software Dev Intern | **LRDE, DRDO** | Nov–Dec 2023 | Python · ETL · Batch Pipelines |
+
+</div>
+
+**✈️ CrestaAerospace** — Shipped 10% of module's backend API surface across 3 Agile sprints with 0 missed deadlines. Cut peer-review cycles by eliminating recurring code-quality defects.
+
+**🤖 Rooman Technologies** — Sole contributor on end-to-end customer segmentation pipeline (Watson NLP + Autoencoders + K-Means). Achieved **16% accuracy improvement** via hyperparameter tuning.
+
+**🛡️ DRDO LRDE** — Eliminated **40% manual ETL processing time** by automating Python batch pipelines. Resolved 3 critical bottlenecks preventing downstream production failures.
+
+---
+
+### ˚₊· ͟͟͞͞➳❥ `projects` ✦
+
+<div align="center">
+
+<a href="https://github.com/Pushya26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Pushya26&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0" />
+</a>
+
+</div>
+
+<br/>
 
 ```
-2025 ──────────────────────────────────────────────────────────────────────── now
-
-  ✈️  Full-Stack Developer Intern · CrestaAerospace Pvt. Ltd
-      Jul 2025 - Nov 2025 | Django · PostgreSQL · REST APIs · Agile
-      ↳ 10% of module backend API surface shipped | 0 missed deadlines
-      ↳ ~7% bug resolution speedup via structured root-cause documentation
-      ↳ Established modular code patterns reducing onboarding friction
-
-  🤖  AI & ML Intern · Rooman Technologies
-      Sep 2024 - Feb 2025 | Python · Watson NLP · Flask · K-Means
-      ↳ Built end-to-end customer segmentation pipeline (sole contributor)
-      ↳ 16% accuracy improvement via hyperparameter tuning + k-fold CV
-      ↳ NLP pipelines covering 85% of unstructured data categories
-
-  🛡️  Software Developer Intern · LRDE, DRDO
-      Nov 2023 - Dec 2023 | Python · ETL · Batch Pipelines
-      ↳ Eliminated 40% manual ETL processing time via automation
-      ↳ Resolved 3 critical pipeline bottlenecks preventing prod failures
-
-2023 ───────────────────────────────────────────────────────────────────────────
+┌─────────────────────────────────────────────────────────────────┐
+│  ✈️  Real-Time Flight Tracker                                    │
+│  Python · Threading · ADS-B Signal Processing                   │
+│  ➜ Concurrent multi-feed ingestion | Thread-safe queuing        │
+│  ➜ Sub-second processing latency | 99%+ uptime under load       │
+│  ➜ Debugged 2 critical stream-drop failures via log analysis    │
+├─────────────────────────────────────────────────────────────────┤
+│  🧠  Document Chatbot — RAG System                              │
+│  Python · ChromaDB · LLaMA 2 · LangChain                        │
+│  ➜ Modular RAG: chunking → embedding → semantic search          │
+│  ➜ 82% retrieval relevance across 100% test corpus              │
+│  ➜ 20% query accuracy improvement post embedding-mismatch debug │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-
-## 🚀 Featured Projects
+### ˚₊· ͟͟͞͞➳❥ `github stats` ✦
 
 <div align="center">
 
-| ✨ | Project | Description | Impact |
-|---|---------|-------------|--------|
-| ✈️ | **Real-Time Flight Tracker** | Concurrent multi-feed ADS-B signal ingestion with thread-safe queuing | 99%+ uptime · Sub-second latency |
-| 🧠 | **RAG Document Chatbot** | Modular RAG pipeline (chunk → embed → semantic search via ChromaDB + LLaMA 2) | 82% retrieval relevance · 20% accuracy gain post-debug |
+<img src="https://github-readme-stats.vercel.app/api?username=Pushya26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya26&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&text_color=e2e8f0" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushya26&theme=tokyonight&hide_border=true&background=0d0d1a&ring=ff9de2&fire=c77dff&currStreakLabel=ff9de2&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=e2e8f0" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushya26&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=ff9de2&line=c77dff&point=ffffff&area=true&area_color=7b2ff7" width="95%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════ EDUCATION ═══════════════════ -->
-
-## 🎓 Education
+### ˚₊· ͟͟͞͞➳❥ `trophies` ✦
 
 <div align="center">
 
-| 🏫 | Degree | Institution | Year | CGPA |
-|---|--------|-------------|------|------|
-| 🌸 | M.Tech, CSE | New Horizon College of Engineering, Bengaluru (VTU) | 2025–2027 | **9.05 ✨** |
-| 📚 | B.E., CSE | MVJ College of Engineering, Bengaluru | 2021–2025 | **7.73** |
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pushya26&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
+### ˚₊· ͟͟͞͞➳❥ `certifications` ✦
 
-## 📜 Certifications
+<div align="center">
 
 **✅ Completed**
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM%20Intro%20to%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![GenAI](https://img.shields.io/badge/SWATI.AI%20GenAI%20Fundamentals-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
-![NCC](https://img.shields.io/badge/NCC%20B%20%26%20C%20Certificate-A855F7?style=for-the-badge&logo=academia&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Intro%20to%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![GenAI](https://img.shields.io/badge/SWATI.AI%20GenAI%20Fundamentals-ff9de2?style=for-the-badge&logo=openai&logoColor=black)
+![NCC](https://img.shields.io/badge/NCC%20B%20%26%20C%20Certificate-7b2ff7?style=for-the-badge&logo=academia&logoColor=white)
 
-**🔄 In Progress**
+**⏳ In Progress**
 
 ![AWS](https://img.shields.io/badge/AWS%20Cloud%20Support%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM DevOps](https://img.shields.io/badge/IBM%20DevOps%20%26%20SE-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM GenAI](https://img.shields.io/badge/IBM%20GenAI%20Engineering-6366F1?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM GenAI](https://img.shields.io/badge/IBM%20GenAI%20Engineering-c77dff?style=for-the-badge&logo=ibm&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
+</div>
+
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
-## 📊 GitHub Stats
+### ˚₊· ͟͟͞͞➳❥ `reach me` ✦
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pushya26&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=FF6B9D&icon_color=A855F7&text_color=e2e8f0&ring_color=FF6B9D" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya26&layout=donut&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=FF6B9D&text_color=e2e8f0" height="175"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushya-bc-27b40a24b)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushya26)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrupushya@gmail.com)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushya26&theme=radical&hide_border=true&background=0d0d1a&ring=FF6B9D&fire=F472B6&currStreakLabel=A855F7&sideLabels=C084FC" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushya26&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=FF6B9D&line=A855F7&point=F472B6" width="95%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pushya26&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushya-bc-27b40a24b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pushya26)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrupushya@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Pushya26&style=for-the-badge&color=c77dff&label=✨+PROFILE+VIEWS)
 
 </div>
 
@@ -246,14 +220,8 @@ class Pushya:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
+*「 clean code · real impact · shipped ✨ 」*
 
-<br/><br/>
-
-> *"Clean code. Real impact. Deployed. ✨"* — Pushya
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:FF6B9D&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:c77dff,100:ff9de2&height=120&section=footer" width="100%"/>
 
 </div>
