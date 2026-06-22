@@ -4,9 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:A855F7,100:6366F1&height=220&section=header&text=✦%20B.C.%20Pushya%20✦&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20·%20AI%20Engineer%20·%20M.Tech%20CS%20@%20NHCE%20Bengaluru&descAlignY=60&descColor=FFD6EC&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=FF6B9D&center=true&vCenter=true&width=750&lines=🌸+Backend+%7C+GenAI+%7C+Cloud+%7C+Distributed+Systems;✈️+Full-Stack+Dev+Intern+@+CrestaAerospace;🎶+KPOP+stan+%7C+📊+Intraday+Trader+%7C+🎖️+NCC+Certified;🚀+Building+things+that+reach+millions+of+users)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=FF6B9D&center=true&vCenter=true&width=750&lines=🌸+Backend+%7C+GenAI+%7C+Cloud+%7C+Distributed+Systems;✈️+Full-Stack+Dev+Intern+@+CrestaAerospace;🎶+BLACKPINK+stan+%7C+📊+Intraday+Trader+%7C+🎖️+NCC+Certified;🚀+Building+things+that+reach+millions+of+users)](https://git.io/typing-svg)
 
 <br/>
+
+<!-- Profile views + followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=Pushya26&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Pushya26?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/Pushya26)
+
+</div>
+
+---
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
@@ -19,13 +27,12 @@ class Pushya:
     pronouns    = "she/her 🌸"
     location    = "Bengaluru, India 🇮🇳"
     degree      = "M.Tech CSE @ NHCE, VTU | CGPA 9.05 ✨"
-    current     = "Looking for my next adventure"
-    past        = ["Full-Stack Dev Intern @ CrestaAerospace ✈️", 
-                   "AI/ML Intern @ Rooman Technologies 🤖",
+    current     = "Full-Stack Dev Intern @ CrestaAerospace ✈️"
+    past        = ["AI/ML Intern @ Rooman Technologies 🤖",
                    "Software Dev Intern @ DRDO LRDE 🛡️"]
     loves       = ["Backend Engineering 🔩", "RAG Systems 🧠",
                    "Distributed Systems ⚡", "Applied AI 🌌"]
-    fun_facts   = ["Music stan 🎶", "Intraday trader 📈",
+    fun_facts   = ["BLACKPINK stan 🎶", "Intraday trader 📈",
                    "NCC B & C certified 🎖️", "Gamifies everything 🎮"]
     motto       = "Clean code. Real impact. Ship it. 🚀"
 ```
@@ -55,7 +62,7 @@ class Pushya:
 | Skill | Proficiency | Level |
 |-------|-------------|-------|
 | 🐘 **PostgreSQL** | ![](https://progress-bar.dev/88/?width=220&color=FF6B9D&suffix=%) | ⭐ Strong |
-| 🐬 **MySQL** | ![](https://progress-bar.dev/78/?width=220&color=A855F7&suffix=%) | ⭐ Strong |
+| 🐬 **MySQL** | ![](https://progress-bar.dev/78/?width=220&color=A855F7&suffix=%) | ✅ Good |
 | 🍃 **MongoDB** | ![](https://progress-bar.dev/65/?width=220&color=6366F1&suffix=%) | 🌱 Familiar |
 | 🔴 **Redis** | ![](https://progress-bar.dev/72/?width=220&color=F472B6&suffix=%) | ✅ Good |
 
@@ -63,7 +70,7 @@ class Pushya:
 
 | Skill | Proficiency | Level |
 |-------|-------------|-------|
-| 🐳 **Docker** | ![](https://progress-bar.dev/80/?width=220&color=FF6B9D&suffix=%) | ⭐ Strong |
+| 🐳 **Docker** | ![](https://progress-bar.dev/80/?width=220&color=FF6B9D&suffix=%) | ✅ Good |
 | ☁️ **AWS** | ![](https://progress-bar.dev/60/?width=220&color=A855F7&suffix=%) | 🌱 Growing |
 | 🔁 **Git/GitHub** | ![](https://progress-bar.dev/90/?width=220&color=6366F1&suffix=%) | ⭐ Strong |
 | 🔧 **REST APIs** | ![](https://progress-bar.dev/88/?width=220&color=F472B6&suffix=%) | ⭐ Strong |
@@ -76,7 +83,7 @@ class Pushya:
 | 🔍 **RAG Systems** | ![](https://progress-bar.dev/84/?width=220&color=FF6B9D&suffix=%) | ⭐ Strong |
 | 🧠 **NLP Pipelines** | ![](https://progress-bar.dev/80/?width=220&color=A855F7&suffix=%) | ✅ Good |
 | 📦 **LLM Integration** | ![](https://progress-bar.dev/75/?width=220&color=6366F1&suffix=%) | ✅ Good |
-| 📊 **ML / Clustering** | ![](https://progress-bar.dev/78/?width=220&color=F472B6&suffix=%) | ⭐ Strong |
+| 📊 **ML / Clustering** | ![](https://progress-bar.dev/78/?width=220&color=F472B6&suffix=%) | ✅ Good |
 
 </div>
 
@@ -98,7 +105,7 @@ class Pushya:
 
 **DevOps & Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=light)](https://skillicons.dev)
 
 **AI & Data Tools**
 
@@ -163,7 +170,7 @@ class Pushya:
 
 | 🏫 | Degree | Institution | Year | CGPA |
 |---|--------|-------------|------|------|
-| 🌸 | M.Tech, CSE | New Horizon College of Engineering, Bengaluru (VTU) | 2025–2027(present) | **9.05 ✨** |
+| 🌸 | M.Tech, CSE | New Horizon College of Engineering, Bengaluru (VTU) | 2025–2027 | **9.05 ✨** |
 | 📚 | B.E., CSE | MVJ College of Engineering, Bengaluru | 2021–2025 | **7.73** |
 
 </div>
