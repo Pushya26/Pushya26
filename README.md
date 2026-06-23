@@ -4,153 +4,132 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9de2,50:c77dff,100:7b2ff7&height=180&section=header&text=✿%20B.%20C.%20Pushya%20✿&fontSize=48&fontColor=fff&fontAlignY=40&desc=こんにちは！%20I%20build%20things%20that%20matter%20〜%20(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧&descAlignY=65&descColor=ffe0f7&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9de2,50:c77dff,100:7b2ff7&height=180&section=header&text=B.%20C.%20Pushya&fontSize=52&fontColor=fff&fontAlignY=42&desc=Software%20Engineer%20·%20Full-Stack%20Developer%20·%20AI%20Enthusiast&descAlignY=65&descColor=ffe0f7&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=✨+M.Tech+CS+%40+NHCE+Bengaluru+(VTU)+|+CGPA+9.05;💻+Full-Stack+Dev+Intern+%40+CrestaAerospace+✈️;🤖+RAG+Pipelines+|+Distributed+Systems+|+GenAI;🎶+BLACKPINK+Stan+|+📊+Trader+|+🎖️+NCC+Certified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=M.Tech+Computer+Science+%40+NHCE+Bengaluru+(VTU);Full-Stack+Development+·+RAG+Pipelines+·+Distributed+Systems;Python+·+Django+·+Docker+·+PostgreSQL+·+GenAI;Building+scalable%2C+AI-powered+systems+that+matter)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="260px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="anime coding gif"/>
+### About Me
 
-### ˚₊· ͟͟͞͞➳❥ `about me`
+<img align="right" width="240px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
+
+Computer Science engineer with hands-on experience in full-stack development, AI/ML pipelines, and backend systems. Currently pursuing M.Tech in CSE at New Horizon College of Engineering, Bengaluru (VTU). I have interned across three organisations — a defence R&D lab, an AI startup, and an aerospace tech company — building real-world systems across ETL automation, NLP-based customer intelligence, REST API backends, and RAG-based document retrieval.
+
+I am actively seeking software engineering roles where I can contribute to distributed systems, applied AI, and backend infrastructure at scale.
 
 ```yaml
-name:     B. C. Pushya
-from:     Bengaluru, India 🇮🇳
-degree:   M.Tech CSE @ NHCE (VTU) | CGPA 9.05 ✨
-doing:    Full-Stack Dev Intern @ CrestaAerospace ✈️
-past:
-  - AI/ML Intern @ Rooman Technologies 🤖
-  - Software Dev Intern @ DRDO LRDE 🛡️
-loves:
-  - Backend Engineering 🔩
-  - RAG + LLM Systems 🧠
-  - Distributed Systems ⚡
-  - Clean, tested code 🌿
-currently_learning:
-  - AWS Cloud (Coursera) ☁️
-  - IBM GenAI Engineering 🤖
-  - LNN / Liquid Neural Nets 🌊
-hobbies:
-  - BLACKPINK 🎶  K-dramas 🍿
-  - Intraday Trading 📈
-  - Gamified productivity 🎮
-fun_fact: NCC B & C certified + 9.05 CGPA grindset 💪
+name:       B. C. Pushya
+location:   Bengaluru, India
+degree:     M.Tech, Computer Science Engineering — NHCE, VTU
+focus:      Backend Engineering · RAG / LLM Systems · Cloud · Distributed Systems
+interests:  K-pop 🎵 · Intraday trading 📊 · Gamified productivity systems 🎮
 ```
 
 <br clear="right"/>
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `tech stack` ✦
+### Tech Stack
 
 <div align="center">
 
-**⟡ Languages ⟡**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,bash&theme=light&perline=6"/>
 
-**⟡ Frameworks & Libraries ⟡**
+**Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=django,flask,react,vite,fastapi,nodejs&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=django,flask,react,fastapi,nodejs&theme=light&perline=6"/>
 
-**⟡ Databases & Messaging ⟡**
+**Databases & Messaging**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light&perline=6"/>
 
-**⟡ DevOps & Cloud ⟡**
+**DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,jenkins&theme=light&perline=6"/>
 
-**⟡ AI / ML ⟡**
+**AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light&perline=6"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=light&perline=6"/>
+&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B9D?style=flat-square&logo=databricks&logoColor=white)
 ![LLaMA 2](https://img.shields.io/badge/LLaMA%202-%23A855F7?style=flat-square&logo=meta&logoColor=white)
 ![Watson NLP](https://img.shields.io/badge/Watson%20NLP-%230062FF?style=flat-square&logo=ibm&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-%237B2FF7?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `skill levels` ✦
+### Skill Proficiency
 
 <div align="center">
 
-| | Skill | Level | |
-|:---:|---|:---:|:---:|
-| 🐍 | Python | `████████████░░` 88% | ⭐ Proficient |
-| 🗄️ | SQL / PostgreSQL | `███████████░░░` 84% | ⭐ Proficient |
-| 🌐 | REST API Design | `███████████░░░` 85% | ⭐ Strong |
-| 🐳 | Docker | `██████████░░░░` 78% | ✅ Good |
-| 🧠 | RAG / LLM Systems | `██████████░░░░` 80% | ✅ Good |
-| 🔩 | Django / Flask | `██████████░░░░` 80% | ✅ Good |
-| ⚡ | Distributed Systems | `█████████░░░░░` 72% | ✅ Good |
-| 🔴 | Redis / Celery | `████████░░░░░░` 68% | 🌱 Growing |
-| ☁️ | AWS | `███████░░░░░░░` 60% | 🌱 Growing |
-| ☕ | Java | `███████░░░░░░░` 62% | 🌱 Familiar |
-| 🌐 | JavaScript | `████████░░░░░░` 65% | 🌱 Familiar |
+| Skill | Proficiency | |
+|---|:---:|:---:|
+| 🐍 Python | `████████████░░` 88% | ⭐ Proficient |
+| 🗄️ SQL / PostgreSQL | `███████████░░░` 84% | ⭐ Proficient |
+| 🐳 Docker | `███████████░░░` 82% | ⭐ Proficient |
+| 🔩 Django / Flask | `███████████░░░` 83% | ✅ Strong |
+| 🌐 REST API Design | `███████████░░░` 85% | ✅ Strong |
+| 🧠 RAG / LLM Systems | `██████████░░░░` 78% | ✅ Good |
+| ⚡ Distributed Systems | `█████████░░░░░` 72% | ✅ Good |
+| 🔴 Redis / Celery | `████████░░░░░░` 65% | 🌱 Growing |
+| ☁️ AWS | `███████░░░░░░░` 60% | 🌱 Growing |
+| ☕ Java | `███████░░░░░░░` 62% | 🌱 Familiar |
 
 </div>
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `experience` ✦
+### Experience
 
 <div align="center">
 
-| 🏢 | Role | Company | Period | Stack |
-|:---:|---|---|:---:|---|
-| ✈️ | Full-Stack Dev Intern | **CrestaAerospace** | Jul–Nov 2025 | Django · PostgreSQL · REST APIs |
-| 🤖 | AI & ML Intern | **Rooman Technologies** | Sep 2024–Feb 2025 | Watson NLP · Flask · K-Means |
-| 🛡️ | Software Dev Intern | **LRDE, DRDO** | Nov–Dec 2023 | Python · ETL · Batch Pipelines |
+| | Role | Organisation | Period |
+|:---:|---|---|:---:|
+| ✈️ | Full-Stack Developer Intern | **CrestaAerospace Pvt. Ltd.** | Jul – Nov 2025 |
+| 🤖 | AI & ML Intern | **Rooman Technologies** | Sep 2024 – Feb 2025 |
+| 🛡️ | Software Developer Intern | **LRDE, DRDO** | Nov – Dec 2023 |
 
 </div>
 
-**✈️ CrestaAerospace** — Shipped 10% of module's backend API surface across 3 Agile sprints with 0 missed deadlines. Cut peer-review cycles by eliminating recurring code-quality defects.
+**✈️ CrestaAerospace** — Shipped 10% of module's backend REST API surface (Django + PostgreSQL) across 3 Agile sprints with zero missed deadlines. Reduced bug resolution turnaround ~7% through structured root-cause documentation across 5+ cross-team production incidents.
 
-**🤖 Rooman Technologies** — Sole contributor on end-to-end customer segmentation pipeline (Watson NLP + Autoencoders + K-Means). Achieved **16% accuracy improvement** via hyperparameter tuning.
+**🤖 Rooman Technologies** — Sole contributor on an end-to-end customer segmentation pipeline (Watson NLP + Autoencoders + K-Means). Achieved **16% accuracy improvement** via hyperparameter tuning and k-fold cross-validation. NLP pipelines covered 85% of unstructured data categories.
 
-**🛡️ DRDO LRDE** — Eliminated **40% manual ETL processing time** by automating Python batch pipelines. Resolved 3 critical bottlenecks preventing downstream production failures.
+**🛡️ DRDO LRDE** — Eliminated **40% of manual ETL processing time** by automating Python batch pipelines across all assigned modules. Resolved 3 critical pipeline bottlenecks preventing downstream production failures.
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `projects` ✦
-
-<div align="center">
-
-<a href="https://github.com/Pushya26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Pushya26&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0" />
-</a>
-
-</div>
-
-<br/>
+### Projects
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  ✈️  Real-Time Flight Tracker                                    │
-│  Python · Threading · ADS-B Signal Processing                   │
-│  ➜ Concurrent multi-feed ingestion | Thread-safe queuing        │
-│  ➜ Sub-second processing latency | 99%+ uptime under load       │
-│  ➜ Debugged 2 critical stream-drop failures via log analysis    │
-├─────────────────────────────────────────────────────────────────┤
-│  🧠  Document Chatbot — RAG System                              │
-│  Python · ChromaDB · LLaMA 2 · LangChain                        │
-│  ➜ Modular RAG: chunking → embedding → semantic search          │
-│  ➜ 82% retrieval relevance across 100% test corpus              │
-│  ➜ 20% query accuracy improvement post embedding-mismatch debug │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  ✈️  Real-Time Flight Tracker                                        │
+│  Python · Threading · ADS-B Signal Processing                       │
+│                                                                     │
+│  → Concurrent multi-feed ingestion pipeline with thread-safe        │
+│    queuing — sub-second processing latency, 99%+ uptime             │
+│  → Debugged 2 critical stream-drop failures via structured          │
+│    log analysis across simultaneous live data streams               │
+├─────────────────────────────────────────────────────────────────────┤
+│  🧠  Document Chatbot — RAG System                                  │
+│  Python · ChromaDB · LLaMA 2 · LangChain · FastAPI                 │
+│                                                                     │
+│  → Modular RAG pipeline: chunking → embedding → semantic search     │
+│  → 82% retrieval relevance across 100% of test corpus               │
+│  → 20% query accuracy improvement post embedding-mismatch debug     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `github stats` ✦
+### GitHub Stats
 
 <div align="center">
 
@@ -170,7 +149,7 @@ fun_fact: NCC B & C certified + 9.05 CGPA grindset 💪
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `trophies` ✦
+### Trophies
 
 <div align="center">
 
@@ -180,18 +159,18 @@ fun_fact: NCC B & C certified + 9.05 CGPA grindset 💪
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `certifications` ✦
+### Certifications
 
 <div align="center">
 
-**✅ Completed**
+**Completed**
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Intro%20to%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![GenAI](https://img.shields.io/badge/SWATI.AI%20GenAI%20Fundamentals-ff9de2?style=for-the-badge&logo=openai&logoColor=black)
 ![NCC](https://img.shields.io/badge/NCC%20B%20%26%20C%20Certificate-7b2ff7?style=for-the-badge&logo=academia&logoColor=white)
 
-**⏳ In Progress**
+**In Progress**
 
 ![AWS](https://img.shields.io/badge/AWS%20Cloud%20Support%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM DevOps](https://img.shields.io/badge/IBM%20DevOps%20%26%20SE-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
@@ -202,7 +181,7 @@ fun_fact: NCC B & C certified + 9.05 CGPA grindset 💪
 
 ---
 
-### ˚₊· ͟͟͞͞➳❥ `reach me` ✦
+### Connect
 
 <div align="center">
 
@@ -212,7 +191,7 @@ fun_fact: NCC B & C certified + 9.05 CGPA grindset 💪
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pushya26&style=for-the-badge&color=c77dff&label=✨+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Pushya26&style=for-the-badge&color=c77dff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -220,7 +199,7 @@ fun_fact: NCC B & C certified + 9.05 CGPA grindset 💪
 
 <div align="center">
 
-*「 clean code · real impact · shipped ✨ 」*
+*「 Clean code. Real impact. Shipped. 」*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:c77dff,100:ff9de2&height=120&section=footer" width="100%"/>
 
