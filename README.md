@@ -6,6 +6,8 @@
 
 ---
 
+<img align="right" width="280" src="YOUR_IMAGE_URL_HERE" alt="profile image"/>
+
 ### Hey there, I'm Pushya 👋
 
 I'm a developer who loves building things that are both functional and thoughtful. I work mostly on backend systems, AI pipelines, and full-stack applications — always trying to write code that's clean, well-tested, and actually useful.
@@ -36,31 +38,26 @@ interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity �
 
 <div align="center">
 
-**Languages**
+**Core**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,bash&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,docker,postgres&theme=light"/>
 
-**Frameworks & Libraries**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=django,flask,react,fastapi,nodejs&theme=light&perline=8"/>
-
-**Databases & Messaging**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light&perline=8"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,jenkins&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=django,flask,redis,fastapi&theme=light"/>
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=light&perline=8"/>
-&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23c77dff?style=flat-square&logo=databricks&logoColor=white)
-![LLaMA 2](https://img.shields.io/badge/LLaMA%202-%237b2ff7?style=flat-square&logo=meta&logoColor=white)
-![Watson NLP](https://img.shields.io/badge/Watson%20NLP-%230062FF?style=flat-square&logo=ibm&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-%23ff9de2?style=flat-square&logo=openai&logoColor=black)
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=light"/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-c77dff?style=for-the-badge&logoColor=white)
+![LLaMA 2](https://img.shields.io/badge/LLaMA_2-7b2ff7?style=for-the-badge&logo=meta&logoColor=white)
+![Watson NLP](https://img.shields.io/badge/Watson_NLP-0062FF?style=for-the-badge&logo=ibm&logoColor=white)
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,aws,linux&theme=light"/>
 
 </div>
 
@@ -68,7 +65,7 @@ interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity �
 
 <div align="center">
 
-| Skill | Proficiency |  |
+| Skill | Proficiency | |
 |---|:---:|:---:|
 | 🐍 Python | `████████████░░` 88% | ⭐ Proficient |
 | 🗄️ SQL / PostgreSQL | `███████████░░░` 84% | ⭐ Proficient |
@@ -77,41 +74,55 @@ interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity �
 | 🌐 REST API Design | `███████████░░░` 85% | ✅ Strong |
 | 🧠 RAG / LLM Systems | `██████████░░░░` 78% | ✅ Good |
 | ⚡ Distributed Systems | `█████████░░░░░` 72% | ✅ Good |
-| 🔴 Redis / Celery | `████████░░░░░░` 65% | 🌱 Growing |
 | ☁️ AWS | `███████░░░░░░░` 60% | 🌱 Growing |
 
 </div>
 
 ---
 
-<!-- pixel runner lives here — add pixel_runner.svg to your repo root -->
-<div align="center">
-<img src="./pixel_runner.svg" width="100%" alt="pixel character running"/>
-</div>
-
----
-
 ### 🚀 Projects I'm Excited to Share
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ✈️  Real-Time Flight Tracker                                        │
-│  Python · Threading · ADS-B Signal Processing                       │
-│                                                                     │
-│  → Concurrent multi-feed ingestion pipeline with thread-safe        │
-│    queuing — sub-second processing latency, 99%+ uptime             │
-│  → Debugged 2 critical stream-drop failures via structured          │
-│    log analysis across simultaneous live data streams               │
-│  → Directly applicable to large-scale distributed observability     │
-├─────────────────────────────────────────────────────────────────────┤
-│  🧠  Document Chatbot — RAG System                                  │
-│  Python · ChromaDB · LLaMA 2 · LangChain · FastAPI                 │
-│                                                                     │
-│  → Modular RAG pipeline: chunking → embedding → semantic search     │
-│  → 82% retrieval relevance across 100% of test corpus               │
-│  → 20% query accuracy improvement post embedding-mismatch fix       │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<a href="https://github.com/Pushya26/mini_search_engine">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=mini_search_engine&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/Pushya26/Gamified_Life">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Gamified_Life&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+</a>
+
+<a href="https://github.com/Pushya26/chat_with_pdf_streamlit_llama2-main">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=chat_with_pdf_streamlit_llama2-main&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/Pushya26/Cognitive-Customer-Insights">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Cognitive-Customer-Insights&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+</a>
+
+</div>
+
+<br/>
+
+**🔍 Mini Search Engine** &nbsp;·&nbsp; `Python` `FastAPI` `BM25` `PageRank` `Inverted Index`
+
+A domain-specific search engine for research papers, built entirely from scratch — no Elasticsearch. Crawls real arXiv metadata, builds a hand-rolled inverted index with postings lists on disk, constructs a citation graph and runs power-iteration PageRank on it, then combines both signals into a hybrid ranker (`score = α·BM25 + β·PageRank`). Exposes a paginated `/search` REST API via FastAPI with a CLI for crawl, index, serve, and stats commands.
+
+<br/>
+
+**🎮 Gamified Life** &nbsp;·&nbsp; `React` `Vite` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT`
+
+A Solo Leveling-inspired full-stack productivity platform that turns daily habits into an RPG progression system. Users complete quests, run dungeons, track shadow habits with streaks, and spend earned coins in an in-app shop. Features JWT-based authentication, protected routes, XP and rank progression, a hunter profile, and a leaderboard — with React + Framer Motion on the frontend and a Node/Express + Prisma/PostgreSQL REST API on the backend.
+
+<br/>
+
+**🧠 Chat with PDF** &nbsp;·&nbsp; `Python` `LLaMA 2` `ChromaDB` `LangChain` `Streamlit`
+
+A production-ready RAG chatbot that answers questions grounded strictly in uploaded documents (PDF, TXT, MD, DOCX). The pipeline runs: smart chunking → embedding → ChromaDB vector store → top-k retrieval with confidence scoring → LLaMA 2 generation with answer refusal when the context doesn't support a response. Delivers answers with inline citations (`[DocName, page X]`), targets end-to-end latency ≤ 3 seconds, and ships with a Streamlit web UI, a CLI, and a Python API for programmatic access.
+
+<br/>
+
+**📊 Cognitive Customer Insights** &nbsp;·&nbsp; `Python` `TensorFlow` `Watson NLP` `Flask` `Streamlit` `K-Means`
+
+An end-to-end AI customer segmentation system that processes both numerical purchase data and unstructured text feedback. Uses an Autoencoder to compress and extract latent features, then applies K-Means clustering to identify distinct customer segments. Exposes real-time segment predictions via a Flask REST API and ships a Streamlit dashboard for business users to explore segments and derive marketing insights without writing code.
 
 ---
 
@@ -119,9 +130,9 @@ interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pushya26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pushya26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&include_all_commits=true&count_private=true&cache_seconds=1800" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya26&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&text_color=e2e8f0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushya26&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&text_color=e2e8f0&cache_seconds=1800&hide=jupyter%20notebook" height="165"/>
 
 <br/>
 
