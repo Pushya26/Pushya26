@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" width="280" src="YOUR_IMAGE_URL_HERE" alt="profile image"/>
+<img align="right" width="280" src="15129348743443180.jpg" alt="profile image"/>
 
 ### Hey there, I'm Pushya 👋
 
