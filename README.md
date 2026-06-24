@@ -85,17 +85,17 @@ interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity �
 <div align="center">
 
 <a href="https://github.com/Pushya26/mini_search_engine">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=mini_search_engine&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=mini_search_engine&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
 </a>
 <a href="https://github.com/Pushya26/Gamified_Life">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Gamified_Life&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Gamified_Life&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
 </a>
 
 <a href="https://github.com/Pushya26/chat_with_pdf_streamlit_llama2-main">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=chat_with_pdf_streamlit_llama2-main&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=chat_with_pdf_streamlit_llama2-main&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
 </a>
 <a href="https://github.com/Pushya26/Cognitive-Customer-Insights">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Cognitive-Customer-Insights&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Cognitive-Customer-Insights&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
 </a>
 
 </div>
