@@ -1,75 +1,74 @@
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--           B.C. PUSHYA — GitHub Profile README          -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9de2,50:c77dff,100:7b2ff7&height=180&section=header&text=B.%20C.%20Pushya&fontSize=52&fontColor=fff&fontAlignY=42&desc=Software%20Engineer%20·%20Full-Stack%20Developer%20·%20AI%20Enthusiast&descAlignY=65&descColor=ffe0f7&animation=twinkling" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=M.Tech+Computer+Science+%40+NHCE+Bengaluru+(VTU);Full-Stack+Development+·+RAG+Pipelines+·+Distributed+Systems;Python+·+Django+·+Docker+·+PostgreSQL+·+GenAI;Building+scalable%2C+AI-powered+systems+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1200&color=C77DFF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Pushya+%F0%9F%91%8B;Software+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+AI+Enthusiast;Python+%C2%B7+Docker+%C2%B7+PostgreSQL+%C2%B7+Django+%C2%B7+GenAI;Building+scalable+systems+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### About Me
+### Hey there, I'm Pushya 👋
 
-<img align="right" width="240px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif"/>
+I'm a developer who loves building things that are both functional and thoughtful. I work mostly on backend systems, AI pipelines, and full-stack applications — always trying to write code that's clean, well-tested, and actually useful.
 
-Computer Science engineer with hands-on experience in full-stack development, AI/ML pipelines, and backend systems. Currently pursuing M.Tech in CSE at New Horizon College of Engineering, Bengaluru (VTU). I have interned across three organisations — a defence R&D lab, an AI startup, and an aerospace tech company — building real-world systems across ETL automation, NLP-based customer intelligence, REST API backends, and RAG-based document retrieval.
-
-I am actively seeking software engineering roles where I can contribute to distributed systems, applied AI, and backend infrastructure at scale.
+Curious by nature, I'm always picking up something new — right now that's cloud infrastructure, LLM-powered systems, and distributed design patterns. I believe good engineering and good thinking go hand in hand. When I'm not at my keyboard, you'll probably find me deep in a K-drama, listening to music, running trades, or designing something for fun.
 
 ```yaml
 name:       B. C. Pushya
-location:   Bengaluru, India
+location:   Bengaluru, India 🇮🇳
 degree:     M.Tech, Computer Science Engineering — NHCE, VTU
-focus:      Backend Engineering · RAG / LLM Systems · Cloud · Distributed Systems
-interests:  K-pop 🎵 · Intraday trading 📊 · Gamified productivity systems 🎮
+currently:  Open to Software Engineering roles 🔍
+interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity 🎮
 ```
-
-<br clear="right"/>
 
 ---
 
-### Tech Stack
+### 🎯 Current Focus
+
+- 🧠 Deepening knowledge in **distributed systems** and **cloud infrastructure (AWS)**
+- 🤖 Exploring **LLM fine-tuning**, **RAG pipelines**, and **GenAI engineering**
+- 🌱 Working toward **IBM DevOps**, **IBM GenAI Engineering**, and **AWS Cloud Support Associate** certifications
+- 💻 Building out my project portfolio with algorithmically interesting systems
+- 📈 Practising **DSA** (graphs, DP, heaps) consistently on LeetCode
+
+---
+
+### 🛠️ Skills & Technologies
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,bash&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,bash&theme=light&perline=8"/>
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=django,flask,react,fastapi,nodejs&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=django,flask,react,fastapi,nodejs&theme=light&perline=8"/>
 
 **Databases & Messaging**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light&perline=8"/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,jenkins&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,jenkins&theme=light&perline=8"/>
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=light&perline=6"/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=light&perline=8"/>
 &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B9D?style=flat-square&logo=databricks&logoColor=white)
-![LLaMA 2](https://img.shields.io/badge/LLaMA%202-%23A855F7?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23c77dff?style=flat-square&logo=databricks&logoColor=white)
+![LLaMA 2](https://img.shields.io/badge/LLaMA%202-%237b2ff7?style=flat-square&logo=meta&logoColor=white)
 ![Watson NLP](https://img.shields.io/badge/Watson%20NLP-%230062FF?style=flat-square&logo=ibm&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-%23ff9de2?style=flat-square&logo=openai&logoColor=black)
 
 </div>
 
----
-
-### Skill Proficiency
+<br/>
 
 <div align="center">
 
-| Skill | Proficiency | |
+| Skill | Proficiency |  |
 |---|:---:|:---:|
 | 🐍 Python | `████████████░░` 88% | ⭐ Proficient |
 | 🗄️ SQL / PostgreSQL | `███████████░░░` 84% | ⭐ Proficient |
@@ -80,33 +79,19 @@ interests:  K-pop 🎵 · Intraday trading 📊 · Gamified productivity systems
 | ⚡ Distributed Systems | `█████████░░░░░` 72% | ✅ Good |
 | 🔴 Redis / Celery | `████████░░░░░░` 65% | 🌱 Growing |
 | ☁️ AWS | `███████░░░░░░░` 60% | 🌱 Growing |
-| ☕ Java | `███████░░░░░░░` 62% | 🌱 Familiar |
 
 </div>
 
 ---
 
-### Experience
-
+<!-- pixel runner lives here — add pixel_runner.svg to your repo root -->
 <div align="center">
-
-| | Role | Organisation | Period |
-|:---:|---|---|:---:|
-| ✈️ | Full-Stack Developer Intern | **CrestaAerospace Pvt. Ltd.** | Jul – Nov 2025 |
-| 🤖 | AI & ML Intern | **Rooman Technologies** | Sep 2024 – Feb 2025 |
-| 🛡️ | Software Developer Intern | **LRDE, DRDO** | Nov – Dec 2023 |
-
+<img src="./pixel_runner.svg" width="100%" alt="pixel character running"/>
 </div>
-
-**✈️ CrestaAerospace** — Shipped 10% of module's backend REST API surface (Django + PostgreSQL) across 3 Agile sprints with zero missed deadlines. Reduced bug resolution turnaround ~7% through structured root-cause documentation across 5+ cross-team production incidents.
-
-**🤖 Rooman Technologies** — Sole contributor on an end-to-end customer segmentation pipeline (Watson NLP + Autoencoders + K-Means). Achieved **16% accuracy improvement** via hyperparameter tuning and k-fold cross-validation. NLP pipelines covered 85% of unstructured data categories.
-
-**🛡️ DRDO LRDE** — Eliminated **40% of manual ETL processing time** by automating Python batch pipelines across all assigned modules. Resolved 3 critical pipeline bottlenecks preventing downstream production failures.
 
 ---
 
-### Projects
+### 🚀 Projects I'm Excited to Share
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -117,19 +102,20 @@ interests:  K-pop 🎵 · Intraday trading 📊 · Gamified productivity systems
 │    queuing — sub-second processing latency, 99%+ uptime             │
 │  → Debugged 2 critical stream-drop failures via structured          │
 │    log analysis across simultaneous live data streams               │
+│  → Directly applicable to large-scale distributed observability     │
 ├─────────────────────────────────────────────────────────────────────┤
 │  🧠  Document Chatbot — RAG System                                  │
 │  Python · ChromaDB · LLaMA 2 · LangChain · FastAPI                 │
 │                                                                     │
 │  → Modular RAG pipeline: chunking → embedding → semantic search     │
 │  → 82% retrieval relevance across 100% of test corpus               │
-│  → 20% query accuracy improvement post embedding-mismatch debug     │
+│  → 20% query accuracy improvement post embedding-mismatch fix       │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -149,39 +135,7 @@ interests:  K-pop 🎵 · Intraday trading 📊 · Gamified productivity systems
 
 ---
 
-### Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pushya26&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### Certifications
-
-<div align="center">
-
-**Completed**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Data%20Analytics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Intro%20to%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![GenAI](https://img.shields.io/badge/SWATI.AI%20GenAI%20Fundamentals-ff9de2?style=for-the-badge&logo=openai&logoColor=black)
-![NCC](https://img.shields.io/badge/NCC%20B%20%26%20C%20Certificate-7b2ff7?style=for-the-badge&logo=academia&logoColor=white)
-
-**In Progress**
-
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Support%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IBM DevOps](https://img.shields.io/badge/IBM%20DevOps%20%26%20SE-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM GenAI](https://img.shields.io/badge/IBM%20GenAI%20Engineering-c77dff?style=for-the-badge&logo=ibm&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-</div>
-
----
-
-### Connect
+### 🤝 Let's Connect
 
 <div align="center">
 
@@ -193,14 +147,8 @@ interests:  K-pop 🎵 · Intraday trading 📊 · Gamified productivity systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pushya26&style=for-the-badge&color=c77dff&label=PROFILE+VIEWS)
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 *「 Clean code. Real impact. Shipped. 」*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:c77dff,100:ff9de2&height=120&section=footer" width="100%"/>
 
 </div>
