@@ -6,9 +6,9 @@
 
 ---
 
-<img align="right" width="280" src="15129348743443180.jpg" alt="profile image"/>
-
 ### Hey there, I'm Pushya 👋
+
+<img align="right" width="280" src="15129348743443180.jpg" alt="profile image"/>
 
 I'm a developer who loves building things that are both functional and thoughtful. I work mostly on backend systems, AI pipelines, and full-stack applications — always trying to write code that's clean, well-tested, and actually useful.
 
@@ -61,23 +61,6 @@ interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity �
 
 </div>
 
-<br/>
-
-<div align="center">
-
-| Skill | Proficiency | |
-|---|:---:|:---:|
-| 🐍 Python | `████████████░░` 88% | ⭐ Proficient |
-| 🗄️ SQL / PostgreSQL | `███████████░░░` 84% | ⭐ Proficient |
-| 🐳 Docker | `███████████░░░` 82% | ⭐ Proficient |
-| 🔩 Django / Flask | `███████████░░░` 83% | ✅ Strong |
-| 🌐 REST API Design | `███████████░░░` 85% | ✅ Strong |
-| 🧠 RAG / LLM Systems | `██████████░░░░` 78% | ✅ Good |
-| ⚡ Distributed Systems | `█████████░░░░░` 72% | ✅ Good |
-| ☁️ AWS | `███████░░░░░░░` 60% | 🌱 Growing |
-
-</div>
-
 ---
 
 ### 🚀 Projects I'm Excited to Share
@@ -85,17 +68,17 @@ interests:  K-pop 🎵  ·  Intraday trading 📊  ·  Gamified productivity �
 <div align="center">
 
 <a href="https://github.com/Pushya26/mini_search_engine">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=mini_search_engine&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=mini_search_engine&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
 </a>
-<a href="https://github.com/Pushya26/Gamified_Life">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Gamified_Life&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
+<a href="https://github.com/Pushya26/flight_tracking_system">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=flight_tracking_system&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Pushya26/chat_with_pdf_streamlit_llama2-main">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=chat_with_pdf_streamlit_llama2-main&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=chat_with_pdf_streamlit_llama2-main&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/Pushya26/Cognitive-Customer-Insights">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Cognitive-Customer-Insights&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800&show_description=true"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Pushya26&repo=Cognitive-Customer-Insights&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff9de2&icon_color=c77dff&text_color=e2e8f0&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -108,9 +91,9 @@ A domain-specific search engine for research papers, built entirely from scratch
 
 <br/>
 
-**🎮 Gamified Life** &nbsp;·&nbsp; `React` `Vite` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT`
+**✈️ Flight Tracking System** &nbsp;·&nbsp; `Python` `FastAPI` `WebSocket` `React` `CesiumJS` `Docker`
 
-A Solo Leveling-inspired full-stack productivity platform that turns daily habits into an RPG progression system. Users complete quests, run dungeons, track shadow habits with streaks, and spend earned coins in an in-app shop. Features JWT-based authentication, protected routes, XP and rank progression, a hunter profile, and a leaderboard — with React + Framer Motion on the frontend and a Node/Express + Prisma/PostgreSQL REST API on the backend.
+A multi-threaded real-time flight tracking system with a 3D globe frontend. Ingestion runs through a bounded producer-consumer pipeline (`queue.Queue`, maxsize 10,000) into a thread-safe `AircraftStateStore` (RLock + snapshot-on-read), a `GridSpatialIndex` for O(1) insert and bounding-box queries, and a per-aircraft `PositionRingBuffer`. Background workers handle stale aircraft eviction (every 30s) and O(n²) CPA conflict detection with caching (every 15s). The FastAPI backend streams live state snapshots over WebSocket every 2s; the React + CesiumJS frontend renders aircraft on a 3D OSM globe with great-circle route arcs and real-time selection highlights.
 
 <br/>
 
